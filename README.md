@@ -66,16 +66,3 @@ We all know that engineering undergrads do things last minute, worry not. I have
 ## PDF Version:
 
 You can get a pdf version of this repository for offline access by clicking [here](printable.pdf).
-
-## My Outcome
-
-I took CS50 AI, AI and DS as part of my academic degree and learned a lot from online resources as a self-learner. Therefore, it was easy for me to cram and score 871/100, surpassing the passing score of 700. Although I didn't go through the official learning path, I did review the official practice tests and the questions from my notes.
-
-## Certificate
-
-![certificate.jpg](certificate.jpg)
-[Verify my certification](https://learn.microsoft.com/en-us/users/anxkhn/credentials/60e4a16a343378da)
-
----
-
-If you found this repository helpful, please leave a star. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anxkhn) or [Twitter](https://x.com/anxkhn) if you need any assistance.
